@@ -13,6 +13,7 @@ public class EurekaserverApplication {
         System.out.println("增加MA功能");
 
         System.out.println("增加了AI功能，优惠券推荐");
+
     }
 
 }

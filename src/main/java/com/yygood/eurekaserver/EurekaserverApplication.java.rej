@@ -1,0 +1,10 @@
+diff a/src/main/java/com/yygood/eurekaserver/EurekaserverApplication.java b/src/main/java/com/yygood/eurekaserver/EurekaserverApplication.java	(rejected hunks)
+@@ -13,7 +13,7 @@
+         System.out.println("增加MA功能");
+ 
+         System.out.println("增加了AI功能，优惠券推荐");
+-
++        System.out.println("增加了AI功能，优惠券推荐");
+     }
+ 
+ }
